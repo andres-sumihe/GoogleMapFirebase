@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapFirebase</string>
+    <string name="lat">Latitute</string>
+    <string name="lang">Longitute</string>
+    <string name="save">Save</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
